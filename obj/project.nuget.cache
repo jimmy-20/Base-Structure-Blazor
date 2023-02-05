@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SaTxzZxhr2oLnXv57bRQM7sqbW7hmM2jlI0I+QL68sp8dA4BaF3lCuMzpkWxzF7DAcPpV2Lfy1/EM0RKyp19jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\MyProyects\\Blazor\\Test Blazor net 7\\Test Blazor net 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
